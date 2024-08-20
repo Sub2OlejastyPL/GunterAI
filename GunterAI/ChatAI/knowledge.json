@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "Witaj",
+      "answer": "Cze\u015b\u0107!"
+    },
+    {
+      "question": "A nic, a co u ciebie?",
+      "answer": "Bardzo dobrze, jak moge ci dzisiaj pomóc?"
+    },
+    {
+      "question": "Co u ciebie?",
+      "answer": "Bardzo dobrze, a u ciebie?"
+    },
+    {
+      "question": "Elo",
+      "answer": "Witaj, jak mog\u0119 ci pom\u00f3c?"
+    },
+    {
+      "question": "Hej",
+      "answer": "Hej"
+    },
+    {
+      "question": "te\u017c dobrze",
+      "answer": "To \u015bwietnie, jak mog\u0119 ci dzisiaj pom\u00f3c?"
+    },
+    {
+      "question": "Cze\u015b\u0107",
+      "answer": "Hej, co s\u0142ycha\u0107?"
+    },
+    {
+      "question": "Bardzo dobrze a u ciebie",
+      "answer": "Te\u017c dobrze"
+    }
+  ]
+}
